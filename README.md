@@ -8,8 +8,8 @@ I love music, programming, and experimenting with operating systems — customiz
 
 Languages
 
-"JavaScript" · "Kotlin" · "Python" · "C"
+JavaScript · Kotlin · Python · C/CPP
 
 ---
 
-Building things I want to use.
+Building things I want to use :D
