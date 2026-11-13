@@ -1,16 +1,15 @@
-## Hi there 👋
+kionya
 
-<!--
-**kionyas/kionyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="120" src="https://github.com/identicons/kionyas.png" />Developer · Linux & Android enthusiast · Music lover
 
-Here are some ideas to get you started:
+I mostly develop things for myself, driven by curiosity and personal interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love music, programming, and experimenting with operating systems — customizing, modifying, and making them truly my own.
+
+Languages
+
+"JavaScript" · "Kotlin" · "Python" · "C"
+
+---
+
+Building things I want to use.
